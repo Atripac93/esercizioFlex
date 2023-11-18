@@ -1,0 +1,66 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    gap:1px;
+   border-radius: 20px;
+   background-color: #F4EDB8;
+   padding: 10px;
+}
+.bot{
+    border-radius: 10px;
+    background-color:#E5D352;
+    padding: 8px;
+    border: none;
+}
+.bot #shop{
+font-weight: bolder;
+
+}
+.titolo{
+    font-weight: bolder;
+    color: #73405F;
+}
+.carte{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-wrap: wrap-reverse;
+    flex-basis: 2;
+    flex-grow: 2;
+    flex-shrink: 300px;
+
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border: 1 solid #ccc;
+    border-radius: 10px;
+    color: #73405F;
+    background-color: #F4EDB8;
+    margin-top:10px;
+    
+
+}
+img{
+    width: 120px;
+    height: 100px;
+}
+.botone{
+    border-radius: 10px;
+    border: none;
+    background-color: #E5D352 ;
+    color: #73405F;
+}
+.carte1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-wrap: wrap-reverse;
+}
+.carda{
+}
+
+
